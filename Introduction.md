@@ -57,6 +57,7 @@ it’s important to make  effective documentation, such as user stories and acce
  Document management tools (e.g., Confluence, SharePoint) help organize and store project documentation. 
 
  - These tools provide a centralized repository for requirements, ensuring easy access, version control, and collaboration. Document management tools are particularly valuable for maintaining a structured record of evolving project requirements.
+   
 `Survey and Form Builders:`
 
  Tools like Google Forms, Typeform, oenable the creation of online surveys and forms.
@@ -66,6 +67,7 @@ it’s important to make  effective documentation, such as user stories and acce
 
  Prototyping tools (e.g., Sketch, Balsamiq, Figma) allow the creation of visual or interactive prototypes.
  - These tools are valuable for translating requirements into tangible representations that stakeholders can interact with, providing a clearer understanding of the proposed features and functionalities.
+   
 `Mind Mapping Tools:` 
 
 Mind mapping tools (e.g., MindMeister, XMind) help visualize and organize complex ideas and relationships. 
