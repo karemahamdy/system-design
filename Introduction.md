@@ -72,6 +72,7 @@ it’s important to make  effective documentation, such as user stories and acce
 
 Mind mapping tools (e.g., MindMeister, XMind) help visualize and organize complex ideas and relationships. 
 - helping stakeholders and the project team understand the relationships between different features and functionalities.
+
 `Version Control Systems:`
 
  Version control systems (e.g., Git, SVN) are essential for managing changes to project documentation. 
