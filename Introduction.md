@@ -29,6 +29,20 @@ Ensure that the gathered requirements align with stakeholder expectations and th
 `Create Formal Documentation`
 Produce documents such as a requirements specification or use case scenarios, which provide a reference for developers and stakeholders.
 
+# Summary of the Requirements Gathering Process in Software Development:
+
+1-Assigning Roles: Identify key stakeholders (end-users, clients, project managers) and engage them to understand their perspectives. This ensures diverse requirements are captured from all relevant parties.
+
+2-Define Project Scope: Establish a clear understanding of the project's objectives, limitations, and boundaries to align expectations on what the software will achieve.
+
+3-Conduct Stakeholder Interviews: Gather detailed requirements through interviews, discussing both explicit needs and implicit preferences. This offers deeper insights into the project.
+
+4-Document Requirements: Organize and document the collected requirements using user stories, use cases, or formal specifications. Distinguish between functional (what the system should do) and non-functional (qualities like performance) requirements.
+
+5-Verify and Validate Requirements: Ensure that the documented requirements align with stakeholder intentions and meet project goals. Use feedback loops for refining and validating the gathered requirements.
+
+6-Prioritize Requirements: Rank the requirements by their importance to the project. This helps in focusing on the most critical features, particularly when resources are limited.
+
 # Challenges and Considerations in Agile Requirements Gathering:
 Changing Priorities: Agile embraces changes in requirements, but frequent changes can pose challenges. It’s crucial to strike a balance between flexibility and stability, ensuring that changes are well-understood, prioritized, and communicated effectively to the development team.
 
