@@ -11,6 +11,27 @@ High-level design or HLD refers to the overall system, a design that consists de
 1- Attributes and features of software entities.  
 2- Relationships between different software entities (components, modules, classes, etc)
 
+# What are the components of System Design?
+
+ ## 1- Load Balancer:
+
+    Distributes incoming requests across multiple servers to avoid overloading and ensure efficient resource utilization. Types include Layer 4 (network-based), Layer 7 (application-based), global, and application-specific load balancers.
+
+ ## 2- Key-Value Stores:
+    NoSQL databases storing data as key-value pairs, providing fast access. They are used in applications like caching and session management. Types include in-memory and persistent stores, ideal for scalability and performance in distributed systems.
+
+ ## 3- Blob Storage & Databases: 
+    Blob storage is used for unstructured data (e.g., media files), while databases store structured data for querying. Both are essential for managing different data types in distributed systems.
+
+ ## 4- Rate Limiters: 
+     Controls the rate of requests or actions to protect systems from overload. Types include request, action, and user rate limiters, with mechanisms like token buckets to regulate excess requests.
+
+ ## 5- Monitoring System:
+    Tracks performance metrics (e.g., network, systems, applications) to ensure system health and reliability. It provides real-time visibility for troubleshooting and performance insights.
+
+ ## 6- Distributed System Messaging Queues:
+    Enables asynchronous communication between nodes, decoupling senders and receivers. Types include point-to-point, publish-subscribe, and hybrid queues, improving scalability and resilience. Common tools are Apache Kafka, RabbitMQ, and AWS SQS.
+
 # Purpose of High-Level Design
 The purpose of this High-Level Design (HLD) is to add the necessary detailed description to represent a suitable model. This is designed to help with operational requirements and can be used as a reference manual for how the modules interact. 
 
