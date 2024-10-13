@@ -56,3 +56,12 @@ The purpose of this High-Level Design (HLD) is to add the necessary detailed des
 - `Logging:` 
   
    Keeping records of events for tracking, debugging, and monitoring system health, crucial in distributed systems.
+
+  
+# The three major principles for creating a good system design are:
+
+`Scalability:` The system should be able to handle increasing amounts of work, data, or users efficiently without a significant drop in performance. This involves proper capacity estimation, resource allocation, and architectural decisions that support horizontal or vertical scaling.
+
+`Reliability:` The system must be dependable, with the ability to recover from faults or failures. Resiliency is key, achieved through mechanisms like redundancy, replication, and fault-tolerant design to ensure minimal downtime and data loss.
+
+`Maintainability:` The system should be easy to update, debug, and enhance over time. This includes modular design, clean code practices, and logging mechanisms that help monitor, troubleshoot, and extend the system without disrupting its operations.
